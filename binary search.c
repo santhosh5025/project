@@ -7,7 +7,7 @@ scanf("%d",&n);
 printf("enter the array element");
 for(i=0;i<n;i++)
 {
-scanf("%d",&ar[i]);
+scanf("%d",&a[i]);
 }
 printf("enter search element");
 scanf("%d",&search);
